@@ -1,0 +1,17 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Rambo"
+    },
+    {
+      "id": 2,
+      "firstName": "Arnold",
+      "lastName": "Schwarzenegger"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

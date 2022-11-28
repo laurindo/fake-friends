@@ -3,12 +3,14 @@
     {
       "id": 1,
       "firstName": "John",
-      "lastName": "Rambo"
+      "lastName": "Rambo",
+      "status": "online"
     },
     {
       "id": 2,
       "firstName": "Arnold",
-      "lastName": "Schwarzenegger"
+      "lastName": "Schwarzenegger",
+      "status": "offline"
     }
   ],
   "profile": {
